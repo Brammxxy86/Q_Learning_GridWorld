@@ -1,5 +1,0 @@
-Jumlah episode: 5000
-Ukuran Q-Table: 16 x 4
-Rata-rata reward 100 episode terakhir gamma 0.90: 14.53
-Rata-rata reward 100 episode terakhir gamma 0.05: 14.34
-Keberhasilan greedy 200 percobaan: 100.0%
